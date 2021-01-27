@@ -1,0 +1,4 @@
+Le_royaume_champignon Hero 1 Ameliore_les_competences_des_heros 100 energie
+La_plaine Bebe 1 Ameliore_les_competences_des_bebes 100 energie
+La_vallee_de_Bowser Boss 1 Ameliore_les_competences_des_boss 100 energie
+Le_desert Sbires 1 Ameliore_les_competences_des_sbires 100 energie

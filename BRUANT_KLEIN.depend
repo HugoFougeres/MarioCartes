@@ -1,0 +1,445 @@
+# depslib dependency file v1.0
+1606262013 source:c:\users\salad\desktop\mariocartes\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1606262013 c:\users\salad\desktop\mariocartes\carte.h
+	<iostream>
+
+1606262013 source:c:\users\salad\desktop\mariocartes\carte_creature.cpp
+	<iostream>
+	"Carte_creature.h"
+
+1606262013 c:\users\salad\desktop\mariocartes\carte_creature.h
+	"Carte.h"
+
+1606262013 source:c:\users\salad\desktop\mariocartes\collec_carte.cpp
+	<iostream>
+	"Collec_carte.h"
+
+1606262013 c:\users\salad\desktop\mariocartes\collec_carte.h
+	"Carte.h"
+	"Carte_creature.h"
+	<vector>
+	<map>
+
+1606424377 source:c:\users\salad\desktop\mariocartes\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1606262013 c:\users\salad\desktop\mariocartes\joueur.h
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	"Magasin.h"
+	"Collec_carte.h"
+
+1606423117 c:\users\salad\desktop\mariocartes\magasin.h
+	"Carte.h"
+	"Carte_creature.h"
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+
+1606423472 source:c:\users\salad\desktop\mariocartes\magasin.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1606423856 source:c:\users\salad\desktop\mariocartes\main.cpp
+	<iostream>
+	"Carte_creature.h"
+	"Magasin.h"
+	"Joueur.h"
+
+1606589477 source:c:\users\hugo fougeres\desktop\mariocartes\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1606759526 c:\users\hugo fougeres\desktop\mariocartes\carte.h
+	<iostream>
+
+1606498401 source:c:\users\hugo fougeres\desktop\mariocartes\carte_creature.cpp
+	<iostream>
+	"Carte_creature.h"
+
+1606498401 c:\users\hugo fougeres\desktop\mariocartes\carte_creature.h
+	"Carte.h"
+
+1606579797 source:c:\users\hugo fougeres\desktop\mariocartes\collec_carte.cpp
+	<iostream>
+	"Collec_carte.h"
+
+1606579797 c:\users\hugo fougeres\desktop\mariocartes\collec_carte.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<vector>
+	<map>
+
+1606589292 source:c:\users\hugo fougeres\desktop\mariocartes\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1606498401 c:\users\hugo fougeres\desktop\mariocartes\joueur.h
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	"Magasin.h"
+	"Collec_carte.h"
+
+1606580520 c:\users\hugo fougeres\desktop\mariocartes\magasin.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+
+1606586656 source:c:\users\hugo fougeres\desktop\mariocartes\magasin.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1606575334 source:c:\users\hugo fougeres\desktop\mariocartes\main.cpp
+	<iostream>
+	"Carte_creature.h"
+	"Magasin.h"
+	"Joueur.h"
+
+1606579052 source:c:\users\hugo fougeres\desktop\mariocartes\carte_energie.cpp
+	<iostream>
+	"Carte_energie.h"
+
+1606589477 c:\users\hugo fougeres\desktop\mariocartes\carte_energie.h
+	"Carte.h"
+
+1606575717 source:c:\users\hugo fougeres\desktop\mariocartes\carte_speciale.cpp
+	<iostream>
+	"Carte_speciale.h"
+
+1606575717 c:\users\hugo fougeres\desktop\mariocartes\carte_speciale.h
+	"Carte.h"
+
+1606843706 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1606843707 c:\users\salad\downloads\applications\projetc--main\projetc--main\carte.h
+	<iostream>
+
+1606843707 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\carte_creature.cpp
+	<iostream>
+	"Carte_creature.h"
+
+1606843707 c:\users\salad\downloads\applications\projetc--main\projetc--main\carte_creature.h
+	"Carte.h"
+
+1606843708 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\carte_energie.cpp
+	<iostream>
+	"Carte_energie.h"
+
+1606843708 c:\users\salad\downloads\applications\projetc--main\projetc--main\carte_energie.h
+	"Carte.h"
+
+1606843708 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\carte_speciale.cpp
+	<iostream>
+	"Carte_speciale.h"
+
+1606843709 c:\users\salad\downloads\applications\projetc--main\projetc--main\carte_speciale.h
+	"Carte.h"
+
+1607091150 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\collec_carte.cpp
+	<iostream>
+	"Collec_carte.h"
+
+1607091150 c:\users\salad\downloads\applications\projetc--main\projetc--main\collec_carte.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<vector>
+	<map>
+
+1607118452 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1607092678 c:\users\salad\downloads\applications\projetc--main\projetc--main\joueur.h
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	"Magasin.h"
+	"Collec_carte.h"
+
+1607087252 c:\users\salad\downloads\applications\projetc--main\projetc--main\magasin.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+
+1606845026 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\magasin.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1607075093 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\main.cpp
+	<iostream>
+	"Carte_creature.h"
+	"Magasin.h"
+	"Joueur.h"
+	"partie.h"
+
+1607076644 c:\users\salad\downloads\applications\projetc--main\projetc--main\partie.h
+	<iostream>
+
+1607091398 source:c:\users\salad\downloads\applications\projetc--main\projetc--main\partie.cpp
+	<iostream>
+	"Partie.h"
+	"Joueur.h"
+
+1607186360 source:c:\users\hugo fougeres\desktop\projetc--main\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1607186367 c:\users\hugo fougeres\desktop\projetc--main\carte.h
+	<iostream>
+
+1607239710 source:c:\users\hugo fougeres\desktop\projetc--main\carte_creature.cpp
+	<iostream>
+	"Carte_creature.h"
+
+1607239830 c:\users\hugo fougeres\desktop\projetc--main\carte_creature.h
+	"Carte.h"
+
+1607199745 source:c:\users\hugo fougeres\desktop\projetc--main\carte_energie.cpp
+	<iostream>
+	"Carte_energie.h"
+
+1607199742 c:\users\hugo fougeres\desktop\projetc--main\carte_energie.h
+	"Carte.h"
+
+1607199731 source:c:\users\hugo fougeres\desktop\projetc--main\carte_speciale.cpp
+	<iostream>
+	"Carte_speciale.h"
+
+1607199740 c:\users\hugo fougeres\desktop\projetc--main\carte_speciale.h
+	"Carte.h"
+
+1607170314 source:c:\users\hugo fougeres\desktop\projetc--main\collec_carte.cpp
+	<iostream>
+	"Collec_carte.h"
+
+1607091152 c:\users\hugo fougeres\desktop\projetc--main\collec_carte.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<vector>
+	<map>
+
+1607289590 source:c:\users\hugo fougeres\desktop\projetc--main\magasin.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1607207857 c:\users\hugo fougeres\desktop\projetc--main\magasin.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	"Affichage.h"
+
+1607210228 source:c:\users\hugo fougeres\desktop\projetc--main\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	"Carte_creature.h"
+	"Magasin.h"
+	"Joueur.h"
+	"partie.h"
+	"Affichage.h"
+
+1607290037 c:\users\hugo fougeres\desktop\projetc--main\joueur.h
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	<queue>
+	"Magasin.h"
+	"Collec_carte.h"
+	"Carte.h"
+	"Affichage.h"
+
+1607286047 c:\users\hugo fougeres\desktop\projetc--main\partie.h
+	"Joueur.h"
+	"Carte.h"
+	"Affichage.h"
+	<iostream>
+	<queue>
+
+1607293267 source:c:\users\hugo fougeres\desktop\projetc--main\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1607294253 source:c:\users\hugo fougeres\desktop\projetc--main\partie.cpp
+	<iostream>
+	"Partie.h"
+	<algorithm>
+	<ctime>
+
+1607208452 c:\users\hugo fougeres\desktop\projetc--main\affichage.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
+1607208279 source:c:\users\hugo fougeres\desktop\projetc--main\affichage.cpp
+	"Affichage.h"
+
+1607208279 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\affichage.cpp
+	"Affichage.h"
+
+1607208452 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\affichage.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+
+1607186360 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte.cpp
+	<iostream>
+	"Carte.h"
+
+1607186367 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte.h
+	<iostream>
+
+1607239710 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte_creature.cpp
+	<iostream>
+	"Carte_creature.h"
+
+1607239830 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte_creature.h
+	"Carte.h"
+
+1607199745 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte_energie.cpp
+	<iostream>
+	"Carte_energie.h"
+
+1607199742 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte_energie.h
+	"Carte.h"
+
+1607199731 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte_speciale.cpp
+	<iostream>
+	"Carte_speciale.h"
+
+1607199740 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\carte_speciale.h
+	"Carte.h"
+
+1607170314 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\collec_carte.cpp
+	<iostream>
+	"Collec_carte.h"
+
+1607091152 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\collec_carte.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<vector>
+	<map>
+
+1607349496 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\joueur.cpp
+	<iostream>
+	"Joueur.h"
+
+1607290037 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\joueur.h
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	<queue>
+	"Magasin.h"
+	"Collec_carte.h"
+	"Carte.h"
+	"Affichage.h"
+
+1607207857 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\magasin.h
+	"Carte.h"
+	"Carte_creature.h"
+	"Carte_energie.h"
+	"Carte_speciale.h"
+	<windows.h>
+	<vector>
+	<map>
+	<fstream>
+	"Affichage.h"
+
+1607289590 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\magasin.cpp
+	<iostream>
+	"Magasin.h"
+	<string>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1607340626 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	"Carte_creature.h"
+	"Magasin.h"
+	"Joueur.h"
+	"partie.h"
+	"Affichage.h"
+
+1607286047 c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\partie.h
+	"Joueur.h"
+	"Carte.h"
+	"Affichage.h"
+	<iostream>
+	<queue>
+
+1607346869 source:c:\users\hugo fougeres\desktop\bruant_klein\projetc--main\partie.cpp
+	<iostream>
+	"Partie.h"
+	<algorithm>
+	<ctime>
+

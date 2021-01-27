@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BRUANT_KLEIN" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BRUANT_KLEIN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BRUANT_KLEIN" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="winmm" />
+		</Linker>
+		<Unit filename="Affichage.cpp" />
+		<Unit filename="Affichage.h" />
+		<Unit filename="Carte.cpp" />
+		<Unit filename="Carte.h" />
+		<Unit filename="Carte_creature.cpp" />
+		<Unit filename="Carte_creature.h" />
+		<Unit filename="Carte_energie.cpp" />
+		<Unit filename="Carte_energie.h" />
+		<Unit filename="Carte_speciale.cpp" />
+		<Unit filename="Carte_speciale.h" />
+		<Unit filename="Collec_carte.cpp" />
+		<Unit filename="Collec_carte.h" />
+		<Unit filename="Joueur.cpp" />
+		<Unit filename="Joueur.h" />
+		<Unit filename="Magasin.cpp" />
+		<Unit filename="Magasin.h" />
+		<Unit filename="Partie.cpp" />
+		<Unit filename="Partie.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

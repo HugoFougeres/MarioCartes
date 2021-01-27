@@ -1,0 +1,21 @@
+Mario Hero 6 2 3 300 creature
+Luigi Hero 6 2 3 300 creature
+Peach Hero 4 2 2 240 creature
+Yoshi Hero 6 2 3 250 creature
+Daisy Hero 4 2 2 240 creature
+Toad Hero 5 1 2 130 creature
+baby_Mario Bebe 5 1 2 120 creature
+baby_Luigi Bebe 5 1 2 120 creature
+baby_Peach Bebe 3 1 2 100 creature
+baby_daisy Bebe 4 1 2 100 creature
+Donkey_Kong Boss 5 2 4 300 creature
+Bowser Boss 5 2 4 300 creature
+Bowser_Jr Boss 4 1 3 250 creature
+Waluigi Boss 5 1 3 350 creature
+Wario Boss 5 1 3 350 creature
+Koopa Sbires 3 1 2 120 creature
+Goomba Sbires 4 1 2 120 creature
+Kamek Sbires 5 1 2 150 creature
+Frere_Marto Sbires 4 1 2 130 creature
+Skelerex Sbires 3 1 2 125 creature
+

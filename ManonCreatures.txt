@@ -1,0 +1,3 @@
+Donkey_Kong Boss 5 2 4 300 creature 
+Bowser Boss 5 2 4 300 creature 
+Bowser_Jr Boss 4 1 3 250 creature 

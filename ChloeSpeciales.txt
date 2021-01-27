@@ -1,0 +1,2 @@
+Etoile Assure_la_victoire_du_joueur 650 speciale 
+Piece Retire_2_pv_a_l_adversaire 450 speciale 

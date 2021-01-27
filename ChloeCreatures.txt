@@ -1,0 +1,7 @@
+Mario Hero 6 2 3 300 creature 
+Luigi Hero 6 2 3 300 creature 
+Yoshi Hero 6 2 3 250 creature 
+Mario Hero 6 2 3 300 creature 
+Daisy Hero 4 2 2 240 creature 
+Toad Hero 5 1 2 130 creature 
+Mario Hero 6 2 3 300 creature 

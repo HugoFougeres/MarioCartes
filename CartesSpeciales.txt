@@ -1,0 +1,7 @@
+Carapace_bleu Affiche_votre_carte_enjeu 450 speciale
+Etoile Assure_la_victoire_du_joueur 650 speciale
+Champignon Ajoute_3_pv_au_joueur 450 speciale
+Piece Retire_2_pv_a_l_adversaire 450 speciale
+Banane Supprime_les_energies_de_l'adversaire 450 speciale
+Tunnel Rajoute_dans_deck_votre_carte_placee_sur_le_plateau 450 speciale
+Fleur Detruit_la_premiere_carte_de_votre_adversaire 450 speciale
